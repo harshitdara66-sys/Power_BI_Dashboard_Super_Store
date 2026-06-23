@@ -4,18 +4,7 @@
 ## Overview
 A professional Power BI dashboard built to analyze Super Store sales performance, profitability, customer behavior, and regional trends. This project transforms raw business data into actionable insights through interactive visualizations and KPI tracking.
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_Super_Store/blob/2ea8d15727b5c00d6ef41b0db2eda4568cf9bef3/Screenshot%202026-06-23%20112837.png)
 ## Dashboard Highlights
 - Revenue & Profit Analysis
 - Sales Performance Monitoring
